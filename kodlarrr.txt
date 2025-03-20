@@ -1,2 +1,6 @@
 print("merhaba");
 print("görüşürüz");
+
+print("kedi");
+dsflkskflsdf
+fdşsdkflsdf
