@@ -4,5 +4,3 @@ print("görüşürüz");
 print("kedi");
 dsflkskflsdf
 fdşsdkflsdf
-
-güncel güncel
