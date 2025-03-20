@@ -1,2 +1,3 @@
 print("merhaba");
 print("görüşürüz");
+mıknatısın gücü
